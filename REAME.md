@@ -1,3 +1,7 @@
+Install package:
+```sh
+sudo pacman -S xbacklight
+```
 Enter the following path and paste the 99-backlight_clamp.rules file:
 ```sh
 cd /etc/udev/rules.d/
