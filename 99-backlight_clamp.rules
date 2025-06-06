@@ -1,0 +1,1 @@
+SUBSYSTEM=="backlight", ENV{ID_BACKLIGHT_CLAMP}="0"
